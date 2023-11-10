@@ -1,0 +1,18 @@
+repo_name: mohammadkhanTEKenable/files
+report_id: 83b791884bca5f7310f52cacf6b56c9d
+repo_type: Public
+timestamp: '2023-11-10T09:06:41+00:00'
+requested_by: mohammadkhanTEKenable
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
